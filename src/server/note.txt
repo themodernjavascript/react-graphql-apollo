@@ -1,0 +1,5 @@
+npm init -y
+
+npm i graphql-yoga --save
+
+node src/index.js
